@@ -24,5 +24,5 @@ Go to the project directory
 ```
 Run
 ```console
-streamlit run main.py
+   streamlit run main.py
 ```
